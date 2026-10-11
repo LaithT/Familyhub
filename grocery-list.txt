@@ -2,3 +2,5 @@ Milk
 Eggs
 Rice 
 Chiken
+Orange Juice 
+Coffee
